@@ -61,9 +61,7 @@ public class SortTest {
 
 	}
 
-	/**
-	 * 测试快速排序算法(非递归实现)
-	 */
+
 	@Test
 	public void quickSort_not_recursion() {
 		int arr[] = { 66, 34, -56, 78, 0, -23, -45, 72, 37 };
